@@ -7,6 +7,7 @@ GenericName=
 Icon=utilities-terminal
 MimeType=
 Name[en_US]=chroot to your HoloISO Installation
+Name[zh_CN]=chroot 到你安装的 HoloISO
 Name=chroot to your HoloISO Installation
 Path=
 StartupNotify=true
