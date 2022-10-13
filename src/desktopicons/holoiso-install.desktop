@@ -7,6 +7,7 @@ GenericName=
 Icon=run-install
 MimeType=
 Name[en_US]=Install SteamOS
+Name[zh_CN]=安装 SteamOS
 Name=Install SteamOS
 Path=
 StartupNotify=true
